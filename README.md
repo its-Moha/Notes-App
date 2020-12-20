@@ -8,6 +8,5 @@
 ✂️ _Using onItemLongClickListener() to delete anote.\
 📱 _Using onItemClickListener() on Views.\
 📃_ Using addTextChanged() and newTextWatcher() to check behaviour of text changing.\
-\
-\
+
 # 📷Screenshots
