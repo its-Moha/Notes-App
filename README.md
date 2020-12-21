@@ -13,3 +13,5 @@ Taking notes is an important way for people to record information they want to r
 📃_ Using addTextChanged() and newTextWatcher() to check behaviour of text changing.\
 
 # 📷Screenshots
+
+![](images/a.jpg)
