@@ -4,6 +4,7 @@ Taking notes is an important way for people to record information they want to r
 # 📲Features
 
 🔗_ Linking an ArrayList to a ListView with the help of an ArrayAdapter.\
+➕_ A floating action button (FAB) to take you to AlertDialog to add it on the list.\ 
 🏃🏻_ Using an Intent to jump between two Activities and sending data through Intents.\
 📑_ Using a multiline EditText and changing its text orientations.\
 ⏳_ Adding permanent storage to the app using SharedPreferences.\
