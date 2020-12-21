@@ -14,4 +14,4 @@ Taking notes is an important way for people to record information they want to r
 
 # 📷Screenshots
 
-![](images/a.jpg)
+❮img src="images/a.jpg" height="100" width="100" ❯
