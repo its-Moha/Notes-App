@@ -22,5 +22,3 @@ Taking notes is an important way for people to record information they want to r
 <img src="/images/d.jpg" width="150px"</img> 
 <img src="/images/e.jpg" width="150px"</img> <img src="/images/f.jpg" width="150px"</img> 
 </div>
-
-
