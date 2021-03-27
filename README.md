@@ -1,4 +1,4 @@
-# 📗My-Notes-App
+# 📗My-Notes-App 
 Taking notes is an important way for people to record information they want to retain. Note It! make it easier to store notes with its simplistic UI and the user is able to manage the notes easily.
 
 # 📲Features
